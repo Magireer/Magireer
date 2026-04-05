@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Marcus Reed 👋
 
-<!--
-**Magireer/Magireer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior AI/ML Engineer based in San Francisco, CA. I specialize in building scalable neural architectures and bridging the gap between cutting-edge research and production-ready AI solutions.
 
-Here are some ideas to get you started:
+### 🚀 Professional Focus
+- **Deep Learning:** PyTorch, TensorFlow, JAX
+- **Computer Vision:** Real-time object detection, segmentation, and tracking
+- **NLP & LLMs:** Transformer architectures, prompt engineering, and multi-agent systems
+- **MLOps:** Distributed training, model deployment (Kubernetes, Docker), and monitoring
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Core Technologies
+- **Languages:** Python, TypeScript, Go, C++
+- **Tools:** AWS, GCP, Kubernetes, Docker, Weights & Biases
+
+### 📈 GitHub Stats
+![Marcus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Magireer&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Magireer&layout=compact&theme=radical)
+
+### 📫 Connect with me
+- **Twitter:** [@MarcusReedAI](https://twitter.com/MarcusReedAI)
+- **LinkedIn:** [linkedin.com/in/marcus-reed-ai](https://linkedin.com/in/marcus-reed-ai)
+- **Website:** [marcusreed.dev](https://marcusreed.dev)
+
+---
+*“The best way to predict the future is to invent it.”*
